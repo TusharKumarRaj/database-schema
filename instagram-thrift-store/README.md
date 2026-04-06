@@ -1,4 +1,4 @@
-# Thrift Store Backend – Database Design
+# Instagram Thrift Store – Entity-Relationship Design
 
 ## Overview
 
